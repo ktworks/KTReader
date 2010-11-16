@@ -1,0 +1,457 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2860E328111B887F00E27156 /* AppDelegate_iPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */; };
+		2860E329111B887F00E27156 /* MainWindow_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2860E327111B887F00E27156 /* MainWindow_iPhone.xib */; };
+		2860E32E111B888700E27156 /* AppDelegate_iPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */; };
+		2860E32F111B888700E27156 /* MainWindow_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2860E32D111B888700E27156 /* MainWindow_iPad.xib */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		CE46A7AC12891EC7006A74D1 /* KTRssData.m in Sources */ = {isa = PBXBuildFile; fileRef = CE46A7AB12891EC7006A74D1 /* KTRssData.m */; };
+		CE46A7B112892110006A74D1 /* KTRssParser.m in Sources */ = {isa = PBXBuildFile; fileRef = CE46A7B012892110006A74D1 /* KTRssParser.m */; };
+		CE46A91B128955E5006A74D1 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = CE46A91A128955E5006A74D1 /* RegexKitLite.m */; };
+		CE5C34E5128A4B3C00ED95AE /* nophoto.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5C34E4128A4B3C00ED95AE /* nophoto.png */; };
+		CE5C34F8128A4D3B00ED95AE /* KTUrlConnectionDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CE5C34F7128A4D3B00ED95AE /* KTUrlConnectionDelegate.m */; };
+		CE70F193128AB8A6008D956D /* KTTableHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = CE70F192128AB8A6008D956D /* KTTableHeader.m */; };
+		CE70F195128AB91F008D956D /* KTTableHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE70F194128AB91F008D956D /* KTTableHeader.xib */; };
+		CE70F233128B8567008D956D /* KTDateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = CE70F232128B8567008D956D /* KTDateFormatter.m */; };
+		CED1E81C12891CDF00D566EB /* KTRssItem.m in Sources */ = {isa = PBXBuildFile; fileRef = CED1E81B12891CDF00D566EB /* KTRssItem.m */; };
+		CED6B1551287F1D9006CA512 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CED6B1541287F1D9006CA512 /* FirstViewController.m */; };
+		CED6B1F01287F58C006CA512 /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1E61287F58C006CA512 /* Default-Landscape.png */; };
+		CED6B1F11287F58C006CA512 /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1E71287F58C006CA512 /* Default-Portrait.png */; };
+		CED6B1F21287F58C006CA512 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1E81287F58C006CA512 /* Default.png */; };
+		CED6B1F31287F58C006CA512 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1E91287F58C006CA512 /* Default@2x.png */; };
+		CED6B1F41287F58C006CA512 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1EA1287F58C006CA512 /* Icon-72.png */; };
+		CED6B1F51287F58C006CA512 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1EB1287F58C006CA512 /* Icon-Small-50.png */; };
+		CED6B1F61287F58C006CA512 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1EC1287F58C006CA512 /* Icon-Small.png */; };
+		CED6B1F71287F58C006CA512 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1ED1287F58C006CA512 /* Icon-Small@2x.png */; };
+		CED6B1F81287F58C006CA512 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1EE1287F58C006CA512 /* Icon.png */; };
+		CED6B1F91287F58C006CA512 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CED6B1EF1287F58C006CA512 /* Icon@2x.png */; };
+		CED6B44F1288ECE8006CA512 /* KTTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CED6B44E1288ECE8006CA512 /* KTTableViewCell.m */; };
+		CED6B4511288ED42006CA512 /* KTTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CED6B4501288ED42006CA512 /* KTTableViewCell.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D6058910D05DD3D006BFB54 /* KTReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KTReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2860E325111B887F00E27156 /* AppDelegate_iPhone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate_iPhone.h; sourceTree = "<group>"; };
+		2860E326111B887F00E27156 /* AppDelegate_iPhone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate_iPhone.m; sourceTree = "<group>"; };
+		2860E327111B887F00E27156 /* MainWindow_iPhone.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow_iPhone.xib; sourceTree = "<group>"; };
+		2860E32B111B888700E27156 /* AppDelegate_iPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate_iPad.h; sourceTree = "<group>"; };
+		2860E32C111B888700E27156 /* AppDelegate_iPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate_iPad.m; sourceTree = "<group>"; };
+		2860E32D111B888700E27156 /* MainWindow_iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow_iPad.xib; sourceTree = "<group>"; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Shared/main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* KTReader_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTReader_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* KTReader-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "KTReader-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		CE46A7AA12891EC7006A74D1 /* KTRssData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTRssData.h; sourceTree = "<group>"; };
+		CE46A7AB12891EC7006A74D1 /* KTRssData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTRssData.m; sourceTree = "<group>"; };
+		CE46A7AF12892110006A74D1 /* KTRssParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTRssParser.h; sourceTree = "<group>"; };
+		CE46A7B012892110006A74D1 /* KTRssParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTRssParser.m; sourceTree = "<group>"; };
+		CE46A919128955E5006A74D1 /* RegexKitLite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegexKitLite.h; sourceTree = "<group>"; };
+		CE46A91A128955E5006A74D1 /* RegexKitLite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegexKitLite.m; sourceTree = "<group>"; };
+		CE5C34E4128A4B3C00ED95AE /* nophoto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nophoto.png; sourceTree = "<group>"; };
+		CE5C34F6128A4D3B00ED95AE /* KTUrlConnectionDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTUrlConnectionDelegate.h; sourceTree = "<group>"; };
+		CE5C34F7128A4D3B00ED95AE /* KTUrlConnectionDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTUrlConnectionDelegate.m; sourceTree = "<group>"; };
+		CE70F191128AB8A6008D956D /* KTTableHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTTableHeader.h; sourceTree = "<group>"; };
+		CE70F192128AB8A6008D956D /* KTTableHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTTableHeader.m; sourceTree = "<group>"; };
+		CE70F194128AB91F008D956D /* KTTableHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = KTTableHeader.xib; path = ../KTTableHeader.xib; sourceTree = "<group>"; };
+		CE70F231128B8567008D956D /* KTDateFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTDateFormatter.h; sourceTree = "<group>"; };
+		CE70F232128B8567008D956D /* KTDateFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTDateFormatter.m; sourceTree = "<group>"; };
+		CED1E81A12891CDF00D566EB /* KTRssItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTRssItem.h; sourceTree = "<group>"; };
+		CED1E81B12891CDF00D566EB /* KTRssItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTRssItem.m; sourceTree = "<group>"; };
+		CED6B1531287F1D9006CA512 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		CED6B1541287F1D9006CA512 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		CED6B1E61287F58C006CA512 /* Default-Landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape.png"; sourceTree = "<group>"; };
+		CED6B1E71287F58C006CA512 /* Default-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait.png"; sourceTree = "<group>"; };
+		CED6B1E81287F58C006CA512 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		CED6B1E91287F58C006CA512 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		CED6B1EA1287F58C006CA512 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		CED6B1EB1287F58C006CA512 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		CED6B1EC1287F58C006CA512 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		CED6B1ED1287F58C006CA512 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		CED6B1EE1287F58C006CA512 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		CED6B1EF1287F58C006CA512 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		CED6B44D1288ECE8006CA512 /* KTTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTTableViewCell.h; sourceTree = "<group>"; };
+		CED6B44E1288ECE8006CA512 /* KTTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTTableViewCell.m; sourceTree = "<group>"; };
+		CED6B4501288ED42006CA512 /* KTTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = KTTableViewCell.xib; path = ../KTTableViewCell.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* KTReader.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2860E324111B887F00E27156 /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				2860E325111B887F00E27156 /* AppDelegate_iPhone.h */,
+				2860E326111B887F00E27156 /* AppDelegate_iPhone.m */,
+				CED6B1531287F1D9006CA512 /* FirstViewController.h */,
+				CED6B1541287F1D9006CA512 /* FirstViewController.m */,
+				2860E327111B887F00E27156 /* MainWindow_iPhone.xib */,
+				CED6B4501288ED42006CA512 /* KTTableViewCell.xib */,
+				CE70F194128AB91F008D956D /* KTTableHeader.xib */,
+			);
+			path = iPhone;
+			sourceTree = "<group>";
+		};
+		2860E32A111B888700E27156 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				2860E32B111B888700E27156 /* AppDelegate_iPad.h */,
+				2860E32C111B888700E27156 /* AppDelegate_iPad.m */,
+				2860E32D111B888700E27156 /* MainWindow_iPad.xib */,
+			);
+			path = iPad;
+			sourceTree = "<group>";
+		};
+		28EEBF621118D79A00187D67 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				CE46A9181289559B006A74D1 /* Other */,
+				CED1E81512891ABF00D566EB /* KT */,
+				CED6B2BA128846AB006CA512 /* Model */,
+				CED6B22712880945006CA512 /* View */,
+				8D1107310486CEB800E47090 /* KTReader-Info.plist */,
+			);
+			name = Shared;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				2860E32A111B888700E27156 /* iPad */,
+				2860E324111B887F00E27156 /* iPhone */,
+				28EEBF621118D79A00187D67 /* Shared */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				CED6B1E51287F56E006CA512 /* images */,
+				32CA4F630368D1EE00C91783 /* KTReader_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CE46A9181289559B006A74D1 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				CE46A91C128955ED006A74D1 /* RegexKitLite */,
+			);
+			name = Other;
+			sourceTree = "<group>";
+		};
+		CE46A91C128955ED006A74D1 /* RegexKitLite */ = {
+			isa = PBXGroup;
+			children = (
+				CE46A919128955E5006A74D1 /* RegexKitLite.h */,
+				CE46A91A128955E5006A74D1 /* RegexKitLite.m */,
+			);
+			name = RegexKitLite;
+			sourceTree = "<group>";
+		};
+		CE5C34F5128A4D1600ED95AE /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				CE5C34F6128A4D3B00ED95AE /* KTUrlConnectionDelegate.h */,
+				CE5C34F7128A4D3B00ED95AE /* KTUrlConnectionDelegate.m */,
+			);
+			name = Network;
+			sourceTree = "<group>";
+		};
+		CE70F190128AB887008D956D /* Table */ = {
+			isa = PBXGroup;
+			children = (
+				CED6B44D1288ECE8006CA512 /* KTTableViewCell.h */,
+				CED6B44E1288ECE8006CA512 /* KTTableViewCell.m */,
+				CE70F191128AB8A6008D956D /* KTTableHeader.h */,
+				CE70F192128AB8A6008D956D /* KTTableHeader.m */,
+			);
+			name = Table;
+			sourceTree = "<group>";
+		};
+		CE70F22D128B850B008D956D /* Date */ = {
+			isa = PBXGroup;
+			children = (
+				CE70F231128B8567008D956D /* KTDateFormatter.h */,
+				CE70F232128B8567008D956D /* KTDateFormatter.m */,
+			);
+			name = Date;
+			sourceTree = "<group>";
+		};
+		CED1E81512891ABF00D566EB /* KT */ = {
+			isa = PBXGroup;
+			children = (
+				CE70F22D128B850B008D956D /* Date */,
+				CE70F190128AB887008D956D /* Table */,
+				CE5C34F5128A4D1600ED95AE /* Network */,
+				CED1E81612891ADE00D566EB /* RSS */,
+			);
+			name = KT;
+			sourceTree = "<group>";
+		};
+		CED1E81612891ADE00D566EB /* RSS */ = {
+			isa = PBXGroup;
+			children = (
+				CED1E81A12891CDF00D566EB /* KTRssItem.h */,
+				CED1E81B12891CDF00D566EB /* KTRssItem.m */,
+				CE46A7AA12891EC7006A74D1 /* KTRssData.h */,
+				CE46A7AB12891EC7006A74D1 /* KTRssData.m */,
+				CE46A7AF12892110006A74D1 /* KTRssParser.h */,
+				CE46A7B012892110006A74D1 /* KTRssParser.m */,
+			);
+			name = RSS;
+			sourceTree = "<group>";
+		};
+		CED6B1E51287F56E006CA512 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				CE5C34E4128A4B3C00ED95AE /* nophoto.png */,
+				CED6B1E61287F58C006CA512 /* Default-Landscape.png */,
+				CED6B1E71287F58C006CA512 /* Default-Portrait.png */,
+				CED6B1E81287F58C006CA512 /* Default.png */,
+				CED6B1E91287F58C006CA512 /* Default@2x.png */,
+				CED6B1EA1287F58C006CA512 /* Icon-72.png */,
+				CED6B1EB1287F58C006CA512 /* Icon-Small-50.png */,
+				CED6B1EC1287F58C006CA512 /* Icon-Small.png */,
+				CED6B1ED1287F58C006CA512 /* Icon-Small@2x.png */,
+				CED6B1EE1287F58C006CA512 /* Icon.png */,
+				CED6B1EF1287F58C006CA512 /* Icon@2x.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		CED6B22712880945006CA512 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		CED6B2BA128846AB006CA512 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* KTReader */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "KTReader" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KTReader;
+			productName = KTReader;
+			productReference = 1D6058910D05DD3D006BFB54 /* KTReader.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "KTReader" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* KTReader */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2860E329111B887F00E27156 /* MainWindow_iPhone.xib in Resources */,
+				2860E32F111B888700E27156 /* MainWindow_iPad.xib in Resources */,
+				CED6B1F01287F58C006CA512 /* Default-Landscape.png in Resources */,
+				CED6B1F11287F58C006CA512 /* Default-Portrait.png in Resources */,
+				CED6B1F21287F58C006CA512 /* Default.png in Resources */,
+				CED6B1F31287F58C006CA512 /* Default@2x.png in Resources */,
+				CED6B1F41287F58C006CA512 /* Icon-72.png in Resources */,
+				CED6B1F51287F58C006CA512 /* Icon-Small-50.png in Resources */,
+				CED6B1F61287F58C006CA512 /* Icon-Small.png in Resources */,
+				CED6B1F71287F58C006CA512 /* Icon-Small@2x.png in Resources */,
+				CED6B1F81287F58C006CA512 /* Icon.png in Resources */,
+				CED6B1F91287F58C006CA512 /* Icon@2x.png in Resources */,
+				CED6B4511288ED42006CA512 /* KTTableViewCell.xib in Resources */,
+				CE5C34E5128A4B3C00ED95AE /* nophoto.png in Resources */,
+				CE70F195128AB91F008D956D /* KTTableHeader.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				2860E328111B887F00E27156 /* AppDelegate_iPhone.m in Sources */,
+				2860E32E111B888700E27156 /* AppDelegate_iPad.m in Sources */,
+				CED6B1551287F1D9006CA512 /* FirstViewController.m in Sources */,
+				CED6B44F1288ECE8006CA512 /* KTTableViewCell.m in Sources */,
+				CED1E81C12891CDF00D566EB /* KTRssItem.m in Sources */,
+				CE46A7AC12891EC7006A74D1 /* KTRssData.m in Sources */,
+				CE46A7B112892110006A74D1 /* KTRssParser.m in Sources */,
+				CE46A91B128955E5006A74D1 /* RegexKitLite.m in Sources */,
+				CE5C34F8128A4D3B00ED95AE /* KTUrlConnectionDelegate.m in Sources */,
+				CE70F193128AB8A6008D956D /* KTTableHeader.m in Sources */,
+				CE70F233128B8567008D956D /* KTDateFormatter.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = KTReader_Prefix.pch;
+				INFOPLIST_FILE = "KTReader-Info.plist";
+				PRODUCT_NAME = KTReader;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = KTReader_Prefix.pch;
+				INFOPLIST_FILE = "KTReader-Info.plist";
+				PRODUCT_NAME = KTReader;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.2;
+				OTHER_LDFLAGS = "-licucore";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.2;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "KTReader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "KTReader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

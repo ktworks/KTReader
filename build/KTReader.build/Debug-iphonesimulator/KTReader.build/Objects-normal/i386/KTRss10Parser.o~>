@@ -1,0 +1,30 @@
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:9:24: error: KTRssParser.h: No such file or directory
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:15: warning: cannot find interface declaration for 'KTRss10Parser'
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:15: error: no declaration of property 'rssData' found in the interface
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:16: error: no declaration of property 'parseErr' found in the interface
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m: In function '-[KTRss10Parser dealloc]':
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:19: error: 'rssData' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:19: error: (Each undeclared identifier is reported only once
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:19: error: for each function it appears in.)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:20: error: 'parseErr' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:21: error: no super class declared in @interface for 'KTRss10Parser'
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m: In function '-[KTRss10Parser parseXMLFileAtURL:]':
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:29: error: 'parser' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:35: error: request for member 'parseErr' in something not a structure or union
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m: In function '-[KTRss10Parser parserDidStartDocument:]':
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:44: error: request for member 'rssData' in something not a structure or union
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m: In function '-[KTRss10Parser parser:didStartElement:namespaceURI:qualifiedName:attributes:]':
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:54: error: 'currentItem' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:56: error: 'currentNodeName' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:57: error: 'currentNodeContent' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m: In function '-[KTRss10Parser parser:didEndElement:namespaceURI:qualifiedName:]':
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:66: error: 'rssData' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:66: error: 'currentItem' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:70: error: 'currentNodeName' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:72: warning: 'KTRss10Parser' may not respond to '-changeNodeName:'
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:72: warning: (Messages without a matching method signature
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:72: warning: will be assumed to return 'id' and accept
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:72: warning: '...' as arguments.)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:74: error: 'currentNodeContent' undeclared (first use in this function)
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m: In function '-[KTRss10Parser parser:foundCharacters:]':
+/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m:83: error: 'currentNodeContent' undeclared (first use in this function)

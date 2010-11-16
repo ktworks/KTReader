@@ -1,0 +1,836 @@
+TKTReader
+v7
+r0
+t310961907.316433
+cCheck dependencies
+cCpResource build/Debug-iphoneos/KTReader.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Info.plist KTReader-Info.plist
+cCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib
+cCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Landscape.png Default-Landscape.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Portrait.png Default-Portrait.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default.png Default.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default@2x.png Default@2x.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-72.png Icon-72.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small-50.png Icon-Small-50.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small.png Icon-Small.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small@2x.png Icon-Small@2x.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon.png Icon.png
+cCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon@2x.png Icon@2x.png
+cProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/main.o /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPhone.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPad.o /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/FirstViewController.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/ItemListView.o /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssItem.o /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssParser.o /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/main.o /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPhone.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader normal armv6
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPad.o /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/FirstViewController.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/ItemListView.o /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssItem.o /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssParser.o /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader normal armv7
+cCreateUniversalBinary /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader normal "armv6 armv7"
+cGenerateDSYMFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app.dSYM /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader
+cProcessProductPackaging "/Users/user/Library/MobileDevice/Provisioning Profiles/158ABA3C-4B98-436D-BF01-805533059863.mobileprovision" /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/embedded.mobileprovision
+cTouch /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader.xcent
+cCodeSign /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/iAd.framework/Headers/iAd.h
+c000000004C6C32360000000000000071
+t1282159158
+s113
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004C6C32410000000000099800
+t1282159169
+s628736
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Default-Landscape.png
+c000000004CB3716F000000000000302F
+t1286828399
+s12335
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Default-Portrait.png
+c000000004CB3716F0000000000003243
+t1286828399
+s12867
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Default.png
+c000000004CB3716F0000000000000E4B
+t1286828399
+s3659
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Default@2x.png
+c000000004CB3716F000000000000284A
+t1286828399
+s10314
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon-72.png
+c000000004CB3716F000000000000080D
+t1286828399
+s2061
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small-50.png
+c000000004CB3716F00000000000006A6
+t1286828399
+s1702
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small.png
+c000000004CB3716F0000000000000536
+t1286828399
+s1334
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small@2x.png
+c000000004CB3716F00000000000007A6
+t1286828399
+s1958
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon.png
+c000000004CB3716F0000000000000698
+t1286828399
+s1688
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon@2x.png
+c000000004CB3716F00000000000008F8
+t1286828399
+s2296
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.h
+c000000004CD813CF000000000000027D
+t1289229263
+s637
+i<Foundation/Foundation.h>
+i<iAd/iAd.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m
+c000000004CD819040000000000000322
+t1289230596
+s802
+i"ItemListView.h"
+i"RssParser.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch
+c000000004CD7B78200000000000000B9
+t1289205634
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.h
+c000000004CD29B2F000000000000024D
+t1288870703
+s589
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m
+c000000004CD29FBF00000000000009A3
+t1288871871
+s2467
+i"RssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.h
+c000000004CD297AA00000000000001E8
+t1288869802
+s488
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m
+c000000004CC7FA5200000000000007D4
+t1288174162
+s2004
+i"RssParser.h"
+i"RssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m
+c000000004CD7B7820000000000000162
+t1289205634
+s354
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app
+t1289269107
+s714
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app.dSYM
+t1289269106
+s102
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Landscape.png
+t1289269103
+s4952
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Portrait.png
+t1289269103
+s5236
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default.png
+t1289269103
+s1937
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default@2x.png
+t1289269103
+s4410
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-72.png
+t1289269103
+s1719
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small-50.png
+t1289269103
+s1644
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small.png
+t1289269103
+s1273
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small@2x.png
+t1289269103
+s1828
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon.png
+t1289269103
+s1538
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon@2x.png
+t1289269103
+s1743
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Info.plist
+t1289269101
+s1044
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader
+t1289269106
+s93576
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/MainWindow_iPad.nib
+t1289269102
+s982
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/MainWindow_iPhone.nib
+t1289269102
+s1744
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/PkgInfo
+t1289269101
+s8
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/ResourceRules.plist
+t1289269101
+s485
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/embedded.mobileprovision
+t1289269106
+s7161
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader.xcent
+t1289269106
+s422
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPad.o
+t1289269105
+s45224
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPhone.o
+t1289269104
+s49920
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/FirstViewController.o
+t1289269105
+s46396
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/ItemListView.o
+t1289269105
+s44816
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader
+t1289269105
+s44424
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader.LinkFileList
+c000000004CD8AF6D0000000000000396
+t1289269101
+s918
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssItem.o
+t1289269105
+s19008
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssParser.o
+t1289269105
+s17784
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/main.o
+t1289269104
+s6472
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPad.o
+t1289269105
+s45176
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPhone.o
+t1289269105
+s49844
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/FirstViewController.o
+t1289269105
+s46172
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/ItemListView.o
+t1289269105
+s44696
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader
+t1289269106
+s44424
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader.LinkFileList
+c000000004CD8AF6D0000000000000396
+t1289269101
+s918
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssItem.o
+t1289269106
+s18648
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssParser.o
+t1289269106
+s17656
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/main.o
+t1289269105
+s6456
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.h
+c000000004CD7B782000000000000013C
+t1289205634
+s316
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m
+c000000004CD7B782000000000000069D
+t1289205634
+s1693
+i"AppDelegate_iPad.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib
+c000000004CD7B78200000000000036DC
+t1289205634
+s14044
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.h
+c000000004CD7B7F400000000000001B4
+t1289205748
+s436
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m
+c000000004CD7B87300000000000009FE
+t1289205875
+s2558
+i"AppDelegate_iPhone.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.h
+c000000004CD8A2A4000000000000021B
+t1289265828
+s539
+i<UIKit/UIKit.h>
+i<iAd/iAd.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m
+c000000004CD8AE400000000000000E44
+t1289268800
+s3652
+i"FirstViewController.h"
+i"RssParser.h"
+i"RssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib
+c000000004CD8A99200000000000072AD
+t1289267602
+s29357
+
+N/Users/user/Library/MobileDevice/Provisioning Profiles/158ABA3C-4B98-436D-BF01-805533059863.mobileprovision
+c000000004CC122540000000000001BF9
+t1287725652
+s7161
+
+N/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch.gch
+t1289269104
+s10315312
+
+N/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch.gch
+t1289269104
+s9848368
+
+NKTReader-Info.plist
+c000000004CD7B7820000000000000569
+t1289205634
+s1385
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310961901#310961901#0(0"0(0#1#0"8761593056#0"0#
+
+CCodeSign /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app
+s310961906.683358
+e310961907.316393
+r1
+xCodeSign
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app
+lSLF07#2@42"CodeSign build/Debug-iphoneos/KTReader.app310961906#310961907#0(0"0(0#0#77"/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app8749390336#673"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: takehiko kan (2XX42P9KP8)" --resource-rules=/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/ResourceRules.plist --entitlements /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader.xcent /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPad.o /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310961904.928869
+e310961905.099424
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPad.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m310961904#310961905#0(0"0(0#0#67"/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m8741872224#1828"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv6 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPad.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPhone.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310961904.755101
+e310961904.952243
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPhone.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m310961904#310961904#0(0"0(0#0#71"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m8731563488#1834"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv6 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/AppDelegate_iPhone.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/FirstViewController.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310961904.952346
+e310961905.115478
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/FirstViewController.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m310961904#310961905#0(0"0(0#0#72"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m8739951072#1836"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv6 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/FirstViewController.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/ItemListView.o /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310961905.099524
+e310961905.281425
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/ItemListView.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m: In function '-[ItemListView initWithNibName:bundle:]':
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: 'UIScrollView' may not respond to '-initWithNibName:bundle:'
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: (Messages without a matching method signature
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: will be assumed to return 'id' and accept
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: '...' as arguments.)
+lSLF07#2@66"Compile /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310961905#310961905#0(573"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m: In function '-[ItemListView initWithNibName:bundle:]':/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: 'UIScrollView' may not respond to '-initWithNibName:bundle:'/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: (Messages without a matching method signature/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: will be assumed to return 'id' and accept/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: '...' as arguments.)2(22@60"'UIScrollView' may not respond to '-initWithNibName:bundle:'310961905#115#133#0(6@58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310923396#18#0#18#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)310961905#248#118#0(6@58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310923396#18#0#18#0#0"0(0#0#58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m8703063584#1815"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv6 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/ItemListView.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssItem.o /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310961905.115584
+e310961905.333373
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssItem.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m310961905#310961905#0(0"0(0#0#53"/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m8699762496#1805"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv6 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssItem.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssParser.o /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310961905.281526
+e310961905.479067
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssParser.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m310961905#310961905#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m8676867872#1809"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv6 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/RssParser.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/main.o /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310961904.753813
+e310961904.928759
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/main.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m310961904#310961904#0(0"0(0#0#57"/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m8746732992#1806"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv6 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPad.o /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310961905.587538
+e310961905.679110
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPad.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m310961905#310961905#0(0"0(0#0#67"/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m8764118400#1828"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv7 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPad.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPhone.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310961905.476656
+e310961905.587431
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPhone.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m310961905#310961905#0(0"0(0#0#71"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m8749734336#1834"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv7 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/AppDelegate_iPhone.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/FirstViewController.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310961905.679210
+e310961905.803385
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/FirstViewController.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m310961905#310961905#0(0"0(0#0#72"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m8744691424#1836"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv7 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/FirstViewController.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/ItemListView.o /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310961905.803484
+e310961905.905904
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/ItemListView.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m: In function '-[ItemListView initWithNibName:bundle:]':
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: 'UIScrollView' may not respond to '-initWithNibName:bundle:'
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: (Messages without a matching method signature
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: will be assumed to return 'id' and accept
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: '...' as arguments.)
+lSLF07#2@66"Compile /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310961905#310961905#0(573"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m: In function '-[ItemListView initWithNibName:bundle:]':/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: 'UIScrollView' may not respond to '-initWithNibName:bundle:'/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: (Messages without a matching method signature/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: will be assumed to return 'id' and accept/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: '...' as arguments.)2(22@60"'UIScrollView' may not respond to '-initWithNibName:bundle:'310961905#115#133#0(6@58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310923396#18#0#18#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)310961905#248#118#0(6@58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310923396#18#0#18#0#0"0(0#0#58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m8741471680#1815"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv7 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/ItemListView.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssItem.o /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310961905.906226
+e310961906.106783
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssItem.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m310961905#310961906#0(0"0(0#0#53"/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m8748907424#1805"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv7 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssItem.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssParser.o /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310961905.950594
+e310961906.085572
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssParser.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m310961905#310961906#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m8747168000#1809"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv7 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/RssParser.o0#
+
+CCompileC build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/main.o /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310961905.333480
+e310961905.476553
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/main.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m310961905#310961905#0(0"0(0#0#57"/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m8758384896#1806"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv7 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib
+s310961901.467408
+e310961902.623889
+r1
+xCompileXIB
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib310961901#310961902#0(0"0(0#0#68"/Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib8737695712#573"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/MainWindow_iPad.nib /Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib
+s310961901.466171
+e310961902.562725
+r1
+xCompileXIB
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib310961901#310961902#0(0"0(0#0#72"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib8738710912#579"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/MainWindow_iPhone.nib /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Landscape.png Default-Landscape.png
+s310961902.563430
+e310961903.035249
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/KTReader.app/Default-Landscape.png Default-Landscape.png310961902#310961903#0(0"0(0#0#65"/Users/user/DevWorks/iOS/Originals/KTReader/Default-Landscape.png8746038496#598"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Default-Landscape.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Landscape.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Portrait.png Default-Portrait.png
+s310961902.623981
+e310961903.010010
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF07#2@87"CopyPNGFile build/Debug-iphoneos/KTReader.app/Default-Portrait.png Default-Portrait.png310961902#310961903#0(0"0(0#0#64"/Users/user/DevWorks/iOS/Originals/KTReader/Default-Portrait.png8666729088#596"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Default-Portrait.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default-Portrait.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default.png Default.png
+s310961903.010346
+e310961903.087243
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default.png
+xDefault.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/KTReader.app/Default.png Default.png310961903#310961903#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/Default.png8738651520#578"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Default.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default@2x.png Default@2x.png
+s310961903.035338
+e310961903.186298
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/KTReader.app/Default@2x.png Default@2x.png310961903#310961903#0(0"0(0#0#58"/Users/user/DevWorks/iOS/Originals/KTReader/Default@2x.png8765526048#584"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Default@2x.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Default@2x.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-72.png Icon-72.png
+s310961903.087335
+e310961903.145201
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/KTReader.app/Icon-72.png Icon-72.png310961903#310961903#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/Icon-72.png8763772704#578"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Icon-72.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-72.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small-50.png Icon-Small-50.png
+s310961903.145291
+e310961903.221147
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small-50.png
+xIcon-Small-50.png
+lSLF07#2@81"CopyPNGFile build/Debug-iphoneos/KTReader.app/Icon-Small-50.png Icon-Small-50.png310961903#310961903#0(0"0(0#0#61"/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small-50.png8761642656#590"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small-50.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small.png Icon-Small.png
+s310961903.186390
+e310961903.254336
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small.png
+xIcon-Small.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/KTReader.app/Icon-Small.png Icon-Small.png310961903#310961903#0(0"0(0#0#58"/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small.png8758039872#584"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small@2x.png Icon-Small@2x.png
+s310961903.221245
+e310961903.288520
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small@2x.png
+xIcon-Small@2x.png
+lSLF07#2@81"CopyPNGFile build/Debug-iphoneos/KTReader.app/Icon-Small@2x.png Icon-Small@2x.png310961903#310961903#0(0"0(0#0#61"/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small@2x.png8751841952#590"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small@2x.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon.png Icon.png
+s310961903.254424
+e310961903.323524
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon.png
+xIcon.png
+lSLF07#2@63"CopyPNGFile build/Debug-iphoneos/KTReader.app/Icon.png Icon.png310961903#310961903#0(0"0(0#0#52"/Users/user/DevWorks/iOS/Originals/KTReader/Icon.png8748359744#572"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Icon.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon.png0#
+
+CCopyPNGFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon@2x.png Icon@2x.png
+s310961903.288613
+e310961903.358315
+r1
+xCopyPNGFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/KTReader.app/Icon@2x.png Icon@2x.png310961903#310961903#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/Icon@2x.png8747071744#578"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/user/DevWorks/iOS/Originals/KTReader/Icon@2x.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Icon@2x.png0#
+
+CCpResource build/Debug-iphoneos/KTReader.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s310961901.363145
+e310961901.466081
+r1
+xCpResource
+xbuild/Debug-iphoneos/KTReader.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist310961901#310961901#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8761341952#491"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app0#
+
+CCreateUniversalBinary /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader normal "armv6 armv7"
+s310961906.389754
+e310961906.455596
+r1
+xCreateUniversalBinary
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader
+xnormal
+xarmv6 armv7
+lSLF07#2@85"CreateUniversalBinary build/Debug-iphoneos/KTReader.app/KTReader normal "armv6 armv7"310961906#310961906#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/armv6 armv78747077472#546"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader -output /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader0#
+
+CGenerateDSYMFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app.dSYM /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader
+s310961906.455688
+e310961906.598868
+r1
+xGenerateDSYMFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app.dSYM
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader
+lSLF07#2@98"GenerateDSYMFile build/Debug-iphoneos/KTReader.app.dSYM build/Debug-iphoneos/KTReader.app/KTReader310961906#310961906#0(0"0(0#0#86"/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader8746829184#380"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/KTReader -o /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app.dSYM0#
+
+CLd /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader normal armv6
+s310961905.479155
+e310961905.950491
+r1
+xLd
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader
+xnormal
+xarmv6
+lSLF07#2@129"Link /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader310961905#310961905#0(0"0(0#0#0"8746446880#905"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -filelist /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework iAd -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv6/KTReader0#
+
+CLd /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader normal armv7
+s310961906.106883
+e310961906.389449
+r1
+xLd
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader
+xnormal
+xarmv7
+lSLF07#2@129"Link /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader310961906#310961906#0(0"0(0#0#0"8720743232#905"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -filelist /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework iAd -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/Objects-normal/armv7/KTReader0#
+
+CProcessInfoPlistFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Info.plist KTReader-Info.plist
+s310961901.364139
+e310961901.417305
+r1
+xProcessInfoPlistFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Info.plist
+xKTReader-Info.plist
+lSLF07#2@27"Process KTReader-Info.plist310961901#310961901#0(0"0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/KTReader-Info.plist8748838624#586"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility KTReader-Info.plist -genpkginfo /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/ResourceRules.plist -o /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/Info.plist0#
+
+CProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310961903.359571
+e310961904.676191
+r1
+xProcessPCH
+x/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch.gch
+xKTReader_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile KTReader_Prefix.pch310961903#310961904#0(0"0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch8746051104#1691"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv7 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -c /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch -o /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-airgzekifbgftmdpobxfjmcngvxj/KTReader_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310961903.358438
+e310961904.753403
+r1
+xProcessPCH
+x/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch.gch
+xKTReader_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile KTReader_Prefix.pch310961903#310961904#0(0"0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch8746558016#1691"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources/armv6 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/DerivedSources -c /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch -o /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bovnjapukiufwgaxxiqncmeohsob/KTReader_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/user/Library/MobileDevice/Provisioning Profiles/158ABA3C-4B98-436D-BF01-805533059863.mobileprovision" /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/embedded.mobileprovision
+s310961906.598974
+e310961906.656850
+r1
+xProcessProductPackaging
+x/Users/user/Library/MobileDevice/Provisioning Profiles/158ABA3C-4B98-436D-BF01-805533059863.mobileprovision
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/embedded.mobileprovision
+lSLF07#2@192"ProcessProductPackaging "/Users/user/Library/MobileDevice/Provisioning Profiles/158ABA3C-4B98-436D-BF01-805533059863.mobileprovision" build/Debug-iphoneos/KTReader.app/embedded.mobileprovision310961906#310961906#0(0"0(0#0#102"/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/embedded.mobileprovision8764431456#433"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/user/Library/MobileDevice/Provisioning Profiles/158ABA3C-4B98-436D-BF01-805533059863.mobileprovision" -o /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader.xcent
+s310961906.660302
+e310961906.683271
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader.xcent310961906#310961906#0(0"0(0#0#109"/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader.xcent8758162944#445"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphoneos/KTReader.build/KTReader.xcent0#
+
+CTouch /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app
+s310961906.656929
+e310961906.660217
+r1
+xTouch
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app
+lSLF07#2@83"Touch /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app310961906#310961906#0(0"0(0#0#0"8763028192#275"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphoneos/KTReader.app0#
+

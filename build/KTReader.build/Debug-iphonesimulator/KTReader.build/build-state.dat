@@ -1,0 +1,1664 @@
+TKTReader
+v7
+r0
+t311347874.108341
+cCheck dependencies
+cProcessInfoPlistFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Info.plist KTReader-Info.plist
+cCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib
+cCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib
+cCpResource build/Debug-iphonesimulator/KTReader.app/Default-Landscape.png Default-Landscape.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Default-Portrait.png Default-Portrait.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Default@2x.png Default@2x.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Icon-72.png Icon-72.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Icon-Small-50.png Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Icon-Small.png Icon-Small.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Icon-Small@2x.png Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/KTReader.app/Icon@2x.png Icon@2x.png
+cCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableViewCell.xib
+cCpResource build/Debug-iphonesimulator/KTReader.app/nophoto.png nophoto.png
+cCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableHeader.xib
+cProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/main.o /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPad.o /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/FirstViewController.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableViewCell.o /Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssItem.o /Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssData.o /Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssParser.o /Users/user/DevWorks/iOS/Originals/KTReader/KTRssParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RegexKitLite.o /Users/user/DevWorks/iOS/Originals/KTReader/RegexKitLite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTUrlConnectionDelegate.o /Users/user/DevWorks/iOS/Originals/KTReader/KTUrlConnectionDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableHeader.o /Users/user/DevWorks/iOS/Originals/KTReader/KTTableHeader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTDateFormatter.o /Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormatter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader normal i386
+cGenerateDSYMFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app.dSYM /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader
+cTouch /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h
+c000000004BD1FECD0000000000007AC8
+t1272053453
+s31432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h
+c000000004BD1FECD0000000000003853
+t1272053453
+s14419
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+c000000004BD1FECD000000000000A9BF
+t1272053453
+s43455
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004BD1FF9E00000000000011E4
+t1272053662
+s4580
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004BD1FF9E0000000000000B36
+t1272053662
+s2870
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSError.h
+c000000004BD1FF9E0000000000001C2F
+t1272053662
+s7215
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h
+c000000004BD1FF9E0000000000001688
+t1272053662
+s5768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNotification.h
+c000000004BD1FF9E00000000000004CE
+t1272053662
+s1230
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h
+c000000004BD1FF9E0000000000001998
+t1272053662
+s6552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+c000000004BD1FF9F000000000000049D
+t1272053663
+s1181
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRunLoop.h
+c000000004BD1FF9F00000000000008B6
+t1272053663
+s2230
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004BD1FF9F00000000000058DB
+t1272053663
+s22747
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/AvailabilityMacros.h
+c000000004BD1CFC10000000000006724
+t1272041409
+s26404
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/TargetConditionals.h
+c000000004BD1CFC100000000000031E9
+t1272041409
+s12777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/dlfcn.h
+c00000000476340E00000000000000AC7
+t1197687008
+s2759
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/libkern/OSAtomic.h
+c000000004748A13100000000000024B9
+t1195942193
+s9401
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/mach-o/loader.h
+c000000004748A10B000000000000CE1D
+t1195942155
+s52765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/objc/objc-runtime.h
+c000000004BD1FE3C0000000000000032
+t1272053308
+s50
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/objc/runtime.h
+c000000004BD1FE3C00000000000053F9
+t1272053308
+s21497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/sys/types.h
+c00000000476344C1000000000000290F
+t1197688001
+s10511
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004748AF950000000000000C7E
+t1195945877
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004748AF9500000000000010DD
+t1195945877
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004748AF950000000000001BE4
+t1195945877
+s7140
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h
+c000000004C5A4C8C0000000000007AC8
+t1280986252
+s31432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h
+c000000004C5A4C8C00000000000045BF
+t1280986252
+s17855
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+c000000004C5A4C8C000000000000B1F9
+t1280986252
+s45561
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004C5A4DA10000000000001B27
+t1280986529
+s6951
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004C5A4DA10000000000000E3B
+t1280986529
+s3643
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSError.h
+c000000004C5A4DA10000000000001DE5
+t1280986529
+s7653
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h
+c000000004C5A4DA10000000000002033
+t1280986529
+s8243
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNotification.h
+c000000004C5A4DA2000000000000059D
+t1280986530
+s1437
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h
+c000000004C5A4DA20000000000002AD2
+t1280986530
+s10962
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+c000000004C5A4DA2000000000000049D
+t1280986530
+s1181
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRunLoop.h
+c000000004C5A4DA20000000000000915
+t1280986530
+s2325
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004C5A4DA20000000000006506
+t1280986530
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/iAd.framework/Headers/iAd.h
+c000000004C6C305C0000000000000071
+t1282158684
+s113
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004C6C30600000000000057F80
+t1282158688
+s360320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/AvailabilityMacros.h
+c000000004C57A0390000000000006724
+t1280811065
+s26404
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/TargetConditionals.h
+c000000004C57A03900000000000031E9
+t1280811065
+s12777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libkern/OSAtomic.h
+c000000004C5790920000000000002519
+t1280807058
+s9497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/mach-o/loader.h
+c000000004A4D4DFA000000000000EF91
+t1246580218
+s61329
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/objc-runtime.h
+c000000004C5A494F0000000000000032
+t1280985423
+s50
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/runtime.h
+c000000004C5A494F00000000000053F9
+t1280985423
+s21497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdio.h
+c000000004C57909200000000000040AC
+t1280807058
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdlib.h
+c000000004C5790920000000000002DF5
+t1280807058
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/string.h
+c000000004C5790920000000000001731
+t1280807058
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/sys/types.h
+c000000004C5798ED0000000000002905
+t1280809197
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11A512000000000000190C
+t1242670354
+s6412
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Default-Landscape.png
+c000000004CB3716F000000000000302F
+t1286828399
+s12335
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Default-Portrait.png
+c000000004CB3716F0000000000003243
+t1286828399
+s12867
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Default.png
+c000000004CB3716F0000000000000E4B
+t1286828399
+s3659
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Default@2x.png
+c000000004CB3716F000000000000284A
+t1286828399
+s10314
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon-72.png
+c000000004CB3716F000000000000080D
+t1286828399
+s2061
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small-50.png
+c000000004CB3716F00000000000006A6
+t1286828399
+s1702
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small.png
+c000000004CB3716F0000000000000536
+t1286828399
+s1334
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small@2x.png
+c000000004CB3716F00000000000007A6
+t1286828399
+s1958
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon.png
+c000000004CB3716F0000000000000698
+t1286828399
+s1688
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Icon@2x.png
+c000000004CB3716F00000000000008F8
+t1286828399
+s2296
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.h
+c000000004CD813CF000000000000027D
+t1289229263
+s637
+i<Foundation/Foundation.h>
+i<iAd/iAd.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m
+c000000004CD819040000000000000322
+t1289230596
+s802
+i"ItemListView.h"
+i"RssParser.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormat.h
+c000000004CDB4DA000000000000000D7
+t1289440672
+s215
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormat.m
+c000000004CDB4DA000000000000000C3
+t1289440672
+s195
+i"KTDateFormat.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormatter.h
+c000000004CDCF6EB00000000000001BA
+t1289549547
+s442
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormatter.m
+c000000004CDD03B50000000000000A45
+t1289552821
+s2629
+i"KTDateFormatter.h"
+i"RegexKitLite.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch
+c000000004CD7B78200000000000000B9
+t1289205634
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.h
+c000000004CD8F86C0000000000000259
+t1289287788
+s601
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m
+c000000004CD8F8A00000000000000A04
+t1289287840
+s2564
+i"KTRssParser.h"
+i"KTRssData.h"
+i"KTRssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRssChannel.h
+c000000004CD8E6FA00000000000000D7
+t1289283322
+s215
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRssChannel.m
+c000000004CD8E6FA00000000000000C3
+t1289283322
+s195
+i"KTRssChannel.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.h
+c000000004CDCE7270000000000000326
+t1289545511
+s806
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m
+c000000004CDCE72E0000000000000178
+t1289545518
+s376
+i"KTRssData.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.h
+c000000004CDBE8190000000000000398
+t1289480217
+s920
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m
+c000000004CDCECA10000000000000198
+t1289546913
+s408
+i"KTRssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRssParser.h
+c000000004CDCE8B400000000000002A3
+t1289545908
+s675
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTRssParser.m
+c000000004CDCF90E00000000000015F7
+t1289550094
+s5623
+i"KTDateFormatter.h"
+i"KTRssParser.h"
+i"KTRssData.h"
+i"KTRssItem.h"
+i"RegexKitLite.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTTableHeader.h
+c000000004CDA825E000000000000013F
+t1289388638
+s319
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTTableHeader.m
+c000000004CDA824400000000000000DF
+t1289388612
+s223
+i"KTTableHeader.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.h
+c000000004CDA78AD00000000000002E2
+t1289386157
+s738
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m
+c000000004CDA77EC0000000000000198
+t1289385964
+s408
+i"KTTableViewCell.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTUrlConnectionDelegate.h
+c000000004CDA165B000000000000022C
+t1289360987
+s556
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/KTUrlConnectionDelegate.m
+c000000004CDBBBE5000000000000062E
+t1289468901
+s1582
+i"KTUrlConnectionDelegate.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/NSString-HexConversion.h
+c0000000048E4C3CE000000000000005F
+t1222951886
+s95
+i<Foundation/NSString.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/NSString-HexConversion.m
+c0000000049FD0E860000000000000286
+t1241321094
+s646
+i"NSString-HexConversion.h"
+i<CoreFoundation/CFString.h>
+i<stdlib.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RegexKitLite.h
+c000000004BC5E8E10000000000004130
+t1271261409
+s16688
+i<Foundation/NSArray.h>
+i<Foundation/NSError.h>
+i<Foundation/NSObjCRuntime.h>
+i<Foundation/NSRange.h>
+i<Foundation/NSString.h>
+i<limits.h>
+i<stdint.h>
+i<sys/types.h>
+i<TargetConditionals.h>
+i<AvailabilityMacros.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RegexKitLite.m
+c000000004BCB02C90000000000032498
+t1271595721
+s205976
+i<CoreFoundation/CFBase.h>
+i<CoreFoundation/CFArray.h>
+i<CoreFoundation/CFString.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSError.h>
+i<Foundation/NSException.h>
+i<Foundation/NSNotification.h>
+i<Foundation/NSRunLoop.h>
+i<Foundation/NSGarbageCollector.h>
+i<objc/runtime.h>
+i<objc/objc-runtime.h>
+i<libkern/OSAtomic.h>
+i<mach-o/loader.h>
+i<AvailabilityMacros.h>
+i<dlfcn.h>
+i<string.h>
+i<stdarg.h>
+i<stdlib.h>
+i<stdio.h>
+i"RegexKitLite.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.h
+c000000004CD29B2F000000000000024D
+t1288870703
+s589
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m
+c000000004CD29FBF00000000000009A3
+t1288871871
+s2467
+i"RssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.h
+c000000004CD297AA00000000000001E8
+t1288869802
+s488
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m
+c000000004CC7FA5200000000000007D4
+t1288174162
+s2004
+i"RssParser.h"
+i"RssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m
+c000000004CD7B7820000000000000162
+t1289205634
+s354
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app
+t1289655074
+s680
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app.dSYM
+t1289655074
+s102
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Default-Landscape.png
+t1289207350
+s12335
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Default-Portrait.png
+t1289207350
+s12867
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Default.png
+t1289207350
+s3659
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Default@2x.png
+t1289207350
+s10314
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Icon-72.png
+t1289207350
+s2061
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Icon-Small-50.png
+t1289207350
+s1702
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Icon-Small.png
+t1289207350
+s1334
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Icon-Small@2x.png
+t1289207350
+s1958
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Icon.png
+t1289207350
+s1688
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Icon@2x.png
+t1289207350
+s2296
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Info.plist
+t1289383175
+s911
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader
+t1289655074
+s163164
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTTableHeader.nib
+t1289547607
+s1594
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTTableViewCell.nib
+t1289547807
+s2299
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/MainWindow_iPad.nib
+t1289381169
+s982
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/MainWindow_iPhone.nib
+t1289475070
+s1744
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/PkgInfo
+t1289383175
+s8
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/nophoto.png
+t1289360405
+s1638
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPad.o
+t1289381169
+s20028
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPhone.o
+t1289654543
+s56480
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/FirstViewController.o
+t1289655073
+s68292
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/ItemListView.o
+t1289230599
+s45132
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTDateFormat.o
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTDateFormatter.o
+t1289553116
+s15092
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTReader.LinkFileList
+c000000004CDB53180000000000000680
+t1289442072
+s1664
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRss10Parser.o
+t1289287792
+s18856
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssChannel.o
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssData.o
+t1289545857
+s13804
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssItem.o
+t1289546916
+s16424
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssParser.o
+t1289550094
+s26588
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableHeader.o
+t1289389030
+s10888
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableViewCell.o
+t1289386159
+s22716
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTUrlConnectionDelegate.o
+t1289475071
+s20952
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/NSString-HexConversion.o
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RegexKitLite.o
+t1289381170
+s156076
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssItem.o
+t1289289101
+s19364
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssParser.o
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/main.o
+t1289381169
+s6328
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/名称未設定.o
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/AppDelegate_iPad.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/AppDelegate_iPhone.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/FirstViewController.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/KTRss10Parser.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/KTRssData.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/KTRssItem.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/KTTableViewCell.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/RssItem.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/RssParser.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.h
+c000000004CD7B782000000000000013C
+t1289205634
+s316
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m
+c000000004CD7B782000000000000069D
+t1289205634
+s1693
+i"AppDelegate_iPad.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib
+c000000004CD7B78200000000000036DC
+t1289205634
+s14044
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableHeader.xib
+c000000004CDCEF300000000000005370
+t1289547568
+s21360
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableViewCell.xib
+c000000004CDCF0190000000000006C5A
+t1289547801
+s27738
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssItem.m
+c000000004CD29FBF00000000000009A3
+t1288871871
+s2467
+i"RssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssParser.m
+c000000004CC7FA5200000000000007D4
+t1288174162
+s2004
+i"RssParser.h"
+i"RssItem.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.h
+c000000004CDBB8AD0000000000000235
+t1289468077
+s565
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m
+c000000004CDD04EA00000000000010F0
+t1289553130
+s4336
+i"AppDelegate_iPhone.h"
+i"FirstViewController.h"
+i"AppDelegate_iPhone.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.h
+c000000004CDE91010000000000000382
+t1289654529
+s898
+i<UIKit/UIKit.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m
+c000000004CDE931D0000000000001F09
+t1289655069
+s7945
+i"AppDelegate_iPhone.h"
+i"FirstViewController.h"
+i"KTRssParser.h"
+i"KTRssData.h"
+i"KTRssItem.h"
+i"KTTableViewCell.h"
+i"KTUrlConnectionDelegate.h"
+i"KTTableHeader.h"
+i"KTDateFormatter.h"
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib
+c000000004CDBC5CE0000000000008AB1
+t1289471438
+s35505
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/nophoto.png
+c000000004CD3A3790000000000000666
+t1288938361
+s1638
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/名称未設定.h
+c000000004CD8E54F00000000000000D3
+t1289282895
+s211
+i<Foundation/Foundation.h>
+
+N/Users/user/DevWorks/iOS/Originals/KTReader/名称未設定.m
+c000000004CD8E54F00000000000000C2
+t1289282895
+s194
+i"名称未設定.h"
+
+N/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-biazbzamnombdddrpltambthajkt/KTReader_Prefix.pch.gch
+t1289205661
+s15232016
+
+N/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch.gch
+t1289280148
+s13825936
+
+N/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-cohmhhtjgkcmagapedlnhoezciso/KTReader_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-flymupzrjwtylrfspjvrefebwsnr/KTReader_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-frpsymnosleajoaiapqrhyoqshvj/KTReader_Prefix.pch.gch
+t1289381109
+s13825936
+
+NKTReader-Info.plist
+c000000004CDA664000000000000005D8
+t1289381440
+s1496
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m
+s310979656.406809
+e310979656.494154
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@67"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m310979656#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979656#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979656#18446744073709551615#0#0(6@14"<command line>310979656#1#0#1#0#0"0(6@14"<command line>310979656#0#0#0#0#0"0(0#0#59"/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m8632563936#1962"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/KTRss10Parser.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m
+s310979656.358996
+e310979656.464193
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@63"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m310979656#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979656#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979656#18446744073709551615#0#0(6@14"<command line>310979656#1#0#1#0#0"0(6@14"<command line>310979656#0#0#0#0#0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m8614505664#1954"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/KTRssData.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m
+s310979656.306745
+e310979656.406718
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@63"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m310979656#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979656#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979656#18446744073709551615#0#0(6@14"<command line>310979656#1#0#1#0#0"0(6@14"<command line>310979656#0#0#0#0#0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m8625164000#1954"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/KTRssItem.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m
+s310979656.225999
+e310979656.358910
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@69"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m310979656#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979656#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979656#18446744073709551615#0#0(6@14"<command line>310979656#1#0#1#0#0"0(6@14"<command line>310979656#0#0#0#0#0"0(0#0#61"/Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m8631981696#1966"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/KTTableViewCell.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m
+s310979656.120496
+e310979656.225910
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@61"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m310979656#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979656#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979656#18446744073709551615#0#0(6@14"<command line>310979656#1#0#1#0#0"0(6@14"<command line>310979656#0#0#0#0#0"0(0#0#53"/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m8624818304#1950"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/RssItem.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m
+s310979656.200740
+e310979656.306659
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@63"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m310979656#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979656#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979656#18446744073709551615#0#0(6@14"<command line>310979656#1#0#1#0#0"0(6@14"<command line>310979656#0#0#0#0#0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m8632775392#1954"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/RssParser.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m
+s310979655.845634
+e310979655.985195
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@65"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m310979655#310979655#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979655#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979655#18446744073709551615#0#0(6@14"<command line>310979655#1#0#1#0#0"0(6@14"<command line>310979655#0#0#0#0#0"0(0#0#57"/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m8633768256#1951"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m
+s310979655.985283
+e310979656.120412
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@75"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m310979655#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979656#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979656#18446744073709551615#0#0(6@14"<command line>310979656#1#0#1#0#0"0(6@14"<command line>310979656#0#0#0#0#0"0(0#0#67"/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m8630072640#1973"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/AppDelegate_iPad.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m
+s310979655.902153
+e310979656.044388
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@79"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m310979655#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979655#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979655#18446744073709551615#0#0(6@14"<command line>310979655#1#0#1#0#0"0(6@14"<command line>310979655#0#0#0#0#0"0(0#0#71"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m8633052448#1979"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/AppDelegate_iPhone.plist0#
+
+CAnalyze /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m
+s310979656.044471
+e310979656.200561
+r1
+xAnalyze
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found
+o #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@80"Analyze /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m310979656#310979656#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found #include "/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors310979656#18446744073709551615#0#1(25@179"'/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch' file not found310979656#18446744073709551615#0#0(6@14"<command line>310979656#1#0#1#0#0"0(6@14"<command line>310979656#0#0#0#0#0"0(0#0#72"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m8629121088#1981"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch --analyze /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/StaticAnalyzer/normal/i386/FirstViewController.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311347873#311347873#0(0"0(0#1#0"8666338976#0"0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPad.o /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311073969.833868
+e311073969.902366
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m311073969#311073969#0(0"0(0#0#67"/Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m8713483904#2059"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPad/AppDelegate_iPad.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPad.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311347343.508522
+e311347343.618824
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m311347343#311347343#0(0"0(0#0#71"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m8669126784#2065"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/AppDelegate_iPhone.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/AppDelegate_iPhone.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/FirstViewController.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311347873.802472
+e311347873.948924
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/FirstViewController.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m311347873#311347873#0(0"0(0#0#72"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m8647087456#2067"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/FirstViewController.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/ItemListView.o /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310923399.623203
+e310923399.713238
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/ItemListView.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m: In function '-[ItemListView initWithNibName:bundle:]':
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: 'UIScrollView' may not respond to '-initWithNibName:bundle:'
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: (Messages without a matching method signature
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: will be assumed to return 'id' and accept
+o/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: '...' as arguments.)
+lSLF07#2@66"Compile /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310923399#310923399#0(573"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m: In function '-[ItemListView initWithNibName:bundle:]':/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: 'UIScrollView' may not respond to '-initWithNibName:bundle:'/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: (Messages without a matching method signature/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: will be assumed to return 'id' and accept/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m:18: warning: '...' as arguments.)2(22@60"'UIScrollView' may not respond to '-initWithNibName:bundle:'310923399#115#133#0(6@58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310923396#18#0#18#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)310923399#248#118#0(6@58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m310923396#18#0#18#0#0"0(0#0#58"/Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m8744751904#2005"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-biazbzamnombdddrpltambthajkt/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/ItemListView.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/ItemListView.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTDateFormat.o /Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormat.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTDateFormatter.o /Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormatter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311245916.555099
+e311245916.755319
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTDateFormatter.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormatter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormatter.m311245916#311245916#0(0"0(0#0#61"/Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormatter.m8660237248#2052"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/KTDateFormatter.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTDateFormatter.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRss10Parser.o /Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310980592.895269
+e310980592.957998
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRss10Parser.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m310980592#310980592#0(0"0(0#0#59"/Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m8624924224#2007"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-biazbzamnombdddrpltambthajkt/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/KTRss10Parser.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRss10Parser.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssChannel.o /Users/user/DevWorks/iOS/Originals/KTReader/KTRssChannel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssData.o /Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311238657.745394
+e311238657.956236
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssData.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m311238657#311238657#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m8633613120#2040"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/KTRssData.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssData.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssItem.o /Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311239716.341659
+e311239716.483147
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssItem.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m311239716#311239716#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m8635578464#2040"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/KTRssItem.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssItem.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssParser.o /Users/user/DevWorks/iOS/Originals/KTReader/KTRssParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311242894.745433
+e311242894.962573
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssParser.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTRssParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/user/DevWorks/iOS/Originals/KTReader/KTRssParser.m311242894#311242894#0(0"0(0#0#57"/Users/user/DevWorks/iOS/Originals/KTReader/KTRssParser.m8646749312#2044"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/KTRssParser.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTRssParser.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableHeader.o /Users/user/DevWorks/iOS/Originals/KTReader/KTTableHeader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311081830.185425
+e311081830.250904
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableHeader.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTTableHeader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/user/DevWorks/iOS/Originals/KTReader/KTTableHeader.m311081830#311081830#0(0"0(0#0#59"/Users/user/DevWorks/iOS/Originals/KTReader/KTTableHeader.m8704720864#2048"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/KTTableHeader.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableHeader.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableViewCell.o /Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311078959.431242
+e311078959.527526
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableViewCell.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m311078959#311078959#0(0"0(0#0#61"/Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m8619632736#2052"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/KTTableViewCell.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTTableViewCell.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTUrlConnectionDelegate.o /Users/user/DevWorks/iOS/Originals/KTReader/KTUrlConnectionDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311167871.296995
+e311167871.608222
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTUrlConnectionDelegate.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/KTUrlConnectionDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/user/DevWorks/iOS/Originals/KTReader/KTUrlConnectionDelegate.m311167871#311167871#0(0"0(0#0#69"/Users/user/DevWorks/iOS/Originals/KTReader/KTUrlConnectionDelegate.m8715609344#2068"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/KTUrlConnectionDelegate.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTUrlConnectionDelegate.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/NSString-HexConversion.o /Users/user/DevWorks/iOS/Originals/KTReader/NSString-HexConversion.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RegexKitLite.o /Users/user/DevWorks/iOS/Originals/KTReader/RegexKitLite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311073970.103404
+e311073970.470506
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RegexKitLite.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/RegexKitLite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/user/DevWorks/iOS/Originals/KTReader/RegexKitLite.m311073970#311073970#0(0"0(0#0#58"/Users/user/DevWorks/iOS/Originals/KTReader/RegexKitLite.m8714244736#2046"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/RegexKitLite.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RegexKitLite.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssItem.o /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310981901.580544
+e310981901.663372
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssItem.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m310981901#310981901#0(0"0(0#0#53"/Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m8630650272#2036"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/RssItem.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssItem.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssItem.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310922005.381381
+e310922005.465503
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssItem.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssItem.m310922005#310922005#0(0"0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssItem.m8764245824#2005"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-biazbzamnombdddrpltambthajkt/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssItem.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssItem.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssParser.o /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310982229.183990
+e310982229.232101
+r0
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssParser.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m:9:
+o/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.h:13: error: cannot find protocol declaration for 'NSXMLParserDelegate'
+lSLF07#2@63"Compile /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m310982229#310982229#0(207"In file included from /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m:9:/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.h:13: error: cannot find protocol declaration for 'NSXMLParserDelegate'1(4@58"Cannot find protocol declaration for 'NSXMLParserDelegate'310982229#81#126#2(7@77"In file included from /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m310982229#18446744073709551615#0#0(6@55"/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m309866962#9#0#9#0#0"0(13@117"Cannot find protocol declaration for 'NSXMLParserDelegate' in /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.h310982229#18446744073709551615#0#0(6@55"/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.h310562602#13#0#13#0#0"0(6@55"/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.h310562602#13#0#13#0#0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m5417675786078283776#2040"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/RssParser.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssParser.o1#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssParser.o /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310922005.447247
+e310922005.524260
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssParser.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssParser.m310922005#310922005#0(0"0(0#0#65"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssParser.m8763758720#2009"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-biazbzamnombdddrpltambthajkt/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../RssParser.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/RssParser.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/main.o /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311073969.775909
+e311073969.833770
+r1
+xCompileC
+xbuild/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/main.o
+x/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m311073969#311073969#0(0"0(0#0#57"/Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m8715840448#2037"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -include /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch -c /Users/user/DevWorks/iOS/Originals/KTReader/Shared/main.m -o /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/main.o0#
+
+CCompileC build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/名称未設定.o /Users/user/DevWorks/iOS/Originals/KTReader/名称未設定.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib
+s311073968.909579
+e311073969.307583
+r1
+xCompileXIB
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib311073968#311073969#0(0"0(0#0#68"/Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib8710026432#601"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/MainWindow_iPad.nib /Users/user/DevWorks/iOS/Originals/KTReader/iPad/MainWindow_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableHeader.xib
+s311240407.165757
+e311240407.744083
+r1
+xCompileXIB
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableHeader.xib
+lSLF07#2@38"CompileXIB iPhone/../KTTableHeader.xib311240407#311240407#0(0"0(0#0#71"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableHeader.xib8641686048#602"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTTableHeader.nib /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableHeader.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableViewCell.xib
+s311240606.689007
+e311240607.142523
+r1
+xCompileXIB
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableViewCell.xib
+lSLF07#2@40"CompileXIB iPhone/../KTTableViewCell.xib311240606#311240607#0(0"0(0#0#73"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableViewCell.xib8641933888#606"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTTableViewCell.nib /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/../KTTableViewCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib
+s311167870.410703
+e311167870.854641
+r1
+xCompileXIB
+x/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib311167870#311167870#0(0"0(0#0#72"/Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib8701640032#607"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/MainWindow_iPhone.nib /Users/user/DevWorks/iOS/Originals/KTReader/iPhone/MainWindow_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Default-Landscape.png Default-Landscape.png
+s310900150.166759
+e310900150.228035
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@26"Copy Default-Landscape.png310900150#310900150#0(0"0(0#0#65"/Users/user/DevWorks/iOS/Originals/KTReader/Default-Landscape.png8717551648#481"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Default-Landscape.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Default-Portrait.png Default-Portrait.png
+s310900150.167574
+e310900150.228243
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF07#2@25"Copy Default-Portrait.png310900150#310900150#0(0"0(0#0#64"/Users/user/DevWorks/iOS/Originals/KTReader/Default-Portrait.png8705656320#480"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Default-Portrait.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Default.png Default.png
+s310900150.168206
+e310900150.228343
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png310900150#310900150#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/Default.png8703988608#471"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Default.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Default@2x.png Default@2x.png
+s310900150.169782
+e310900150.228440
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@19"Copy Default@2x.png310900150#310900150#0(0"0(0#0#58"/Users/user/DevWorks/iOS/Originals/KTReader/Default@2x.png8700236320#474"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Default@2x.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Icon-72.png Icon-72.png
+s310900150.171203
+e310900150.228532
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@16"Copy Icon-72.png310900150#310900150#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/Icon-72.png8698968128#471"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Icon-72.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Icon-Small-50.png Icon-Small-50.png
+s310900150.182437
+e310900150.228626
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Icon-Small-50.png
+xIcon-Small-50.png
+lSLF07#2@22"Copy Icon-Small-50.png310900150#310900150#0(0"0(0#0#61"/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small-50.png8682687328#477"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small-50.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Icon-Small.png Icon-Small.png
+s310900150.184164
+e310900150.228720
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Icon-Small.png
+xIcon-Small.png
+lSLF07#2@19"Copy Icon-Small.png310900150#310900150#0(0"0(0#0#58"/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small.png8677966752#474"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Icon-Small@2x.png Icon-Small@2x.png
+s310900150.184920
+e310900150.229852
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Icon-Small@2x.png
+xIcon-Small@2x.png
+lSLF07#2@22"Copy Icon-Small@2x.png310900150#310900150#0(0"0(0#0#61"/Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small@2x.png8664999648#477"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Icon-Small@2x.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Icon.png Icon.png
+s310900150.190337
+e310900150.228844
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png310900150#310900150#0(0"0(0#0#52"/Users/user/DevWorks/iOS/Originals/KTReader/Icon.png8657841344#468"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Icon.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/Icon@2x.png Icon@2x.png
+s310900150.192102
+e310900150.228957
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@16"Copy Icon@2x.png310900150#310900150#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/Icon@2x.png8655056288#471"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/Icon@2x.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CCpResource build/Debug-iphonesimulator/KTReader.app/nophoto.png nophoto.png
+s311053205.617673
+e311053205.623140
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/KTReader.app/nophoto.png
+xnophoto.png
+lSLF07#2@16"Copy nophoto.png311053205#311053205#0(0"0(0#0#55"/Users/user/DevWorks/iOS/Originals/KTReader/nophoto.png28429445101453416#471"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/user/DevWorks/iOS/Originals/KTReader/nophoto.png /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
+CGenerateDSYMFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app.dSYM /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader
+s311347874.006087
+e311347874.104103
+r1
+xGenerateDSYMFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app.dSYM
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/KTReader.app.dSYM build/Debug-iphonesimulator/KTReader.app/KTReader311347874#311347874#0(0"0(0#0#93"/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader8662916448#401"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader -o /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app.dSYM0#
+
+CLd /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader normal i386
+s311347873.949009
+e311347874.005985
+r1
+xLd
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader
+xnormal
+xi386
+lSLF07#2@98"Link /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader311347873#311347874#0(0"0(0#0#0"8664858784#940"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -filelist /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/Objects-normal/i386/KTReader.LinkFileList -mmacosx-version-min=10.5 -licucore -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/KTReader0#
+
+CProcessInfoPlistFile /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Info.plist KTReader-Info.plist
+s311075975.344891
+e311075975.355250
+r1
+xProcessInfoPlistFile
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Info.plist
+xKTReader-Info.plist
+lSLF07#2@27"Process KTReader-Info.plist311075975#311075975#0(0"0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/KTReader-Info.plist8714963520#497"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility KTReader-Info.plist -genpkginfo /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app/Info.plist0#
+
+CProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-biazbzamnombdddrpltambthajkt/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310898460.612430
+e310898461.552812
+r1
+xProcessPCH
+x/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-biazbzamnombdddrpltambthajkt/KTReader_Prefix.pch.gch
+xKTReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile KTReader_Prefix.pch310898460#310898461#0(0"0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch8762040960#1875"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -c /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch -o /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-biazbzamnombdddrpltambthajkt/KTReader_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310972948.162577
+e310972948.959953
+r1
+xProcessPCH
+x/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch.gch
+xKTReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile KTReader_Prefix.pch310972948#310972948#0(0"0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch8606832832#1916"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -c /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch -o /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-bkejqdtgfzolgohjddwigfsipgnj/KTReader_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-cohmhhtjgkcmagapedlnhoezciso/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch.pth KTReader_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s310979655.388713
+e310979655.787982
+r1
+xProcessPCH
+x/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch.pth
+xKTReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@30"Precompile KTReader_Prefix.pch310979655#310979655#0(8147"In file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors310979655#18446744073709551615#0#11(25@48"expected function body after function declarator310979655#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type310979655#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type310979655#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type310979655#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'310979655#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type310979655#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type310979655#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type310979655#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type310979655#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'310979655#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'310979655#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch8624905888#1812"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -c /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch -o /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-eurlhaomyrkfzugfrgbpvmtjgnhb/KTReader_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-flymupzrjwtylrfspjvrefebwsnr/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-frpsymnosleajoaiapqrhyoqshvj/KTReader_Prefix.pch.gch KTReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311073909.213683
+e311073909.995230
+r1
+xProcessPCH
+x/var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-frpsymnosleajoaiapqrhyoqshvj/KTReader_Prefix.pch.gch
+xKTReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@30"Precompile KTReader_Prefix.pch311073909#311073909#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#63"/Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch8717577248#1916"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-generated-files.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-own-target-headers.hmap -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-all-target-headers.hmap -iquote /Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/KTReader-project-headers.hmap -F/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator -I/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/include -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources/i386 -I/Users/user/DevWorks/iOS/Originals/KTReader/build/KTReader.build/Debug-iphonesimulator/KTReader.build/DerivedSources -c /Users/user/DevWorks/iOS/Originals/KTReader/KTReader_Prefix.pch -o /var/folders/Dd/Dde-btVnFrW0qr7MBtmH3E+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/KTReader_Prefix-frpsymnosleajoaiapqrhyoqshvj/KTReader_Prefix.pch.gch0#
+
+CTouch /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app
+s311347874.104209
+e311347874.107516
+r1
+xTouch
+x/Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app
+lSLF07#2@90"Touch /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app311347874#311347874#0(0"0(0#0#0"8628155392#289"    cd /Users/user/DevWorks/iOS/Originals/KTReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/user/DevWorks/iOS/Originals/KTReader/build/Debug-iphonesimulator/KTReader.app0#
+
